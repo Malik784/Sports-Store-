@@ -167,5 +167,24 @@ a{
     width: 100%;
     cursor: pointer;
     filter: grayscale(100%);
+
+}
+
+
+/*footer*/
+
+.footer{
+    background: #000;
+    color: red;
+    font-size: 14px;
+    padding: 60px 0 20px;
+}
+.footer p{
+    color: #8a8a8a;
     
+
+}
+.footer h3{
+    color: #fff;
+    margin-bottom: 20px;
 }
